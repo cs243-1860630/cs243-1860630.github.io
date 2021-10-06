@@ -1,0 +1,42 @@
+/*
+  Name: Chuan Shi
+  Date: 4/6/2019
+  Section: CSE 154 AM
+
+  This is the style.css page for my personal site.
+  It is used by all pages on this site to make this site look consistent.
+*/
+@import url('https://fonts.googleapis.com/css?family=Muli');
+
+body {
+  background-color: #ddffdd;
+  font-family: 'Muli', sans-serif;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+
+img {
+  border-radius: 20px;
+}
+
+header a {
+  background-color: #f9f9f9;
+  font-weight: bold;
+  font-size: 12pt;
+  padding: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 10px;
+}
+
+h1, h2, h3 {
+  font-family: verdana, sans-serif;
+}
+
+blockquote {
+  background-color: white;
+  border-left: 10px solid grey;
+  margin: 10px;
+  padding: 10px;
+}
