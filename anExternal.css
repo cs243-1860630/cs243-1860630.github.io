@@ -1,0 +1,39 @@
+/*
+    Name: Chuan Shi
+    Date: 10/13/2021
+    Section: INFO 101 AA
+*/
+@import url('https://fonts.googleapis.com/css?family=Muli');
+
+body {
+    background-color: #ddffdd;
+    font-family: 'Muli', sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+p {
+    border: dotted;
+    max-width: 500px;
+}
+
+img {
+    height: 50px;
+    width: 50px;
+    margin: 20px;
+    border-radius: 20px;
+}
+
+.container {
+    position: relative;
+    text-align: center;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    color: white;
+    transform: translate(-50%, -50%);
+}
