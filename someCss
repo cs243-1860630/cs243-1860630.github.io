@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<!--
+  Name: Chuan Shi
+  Date: 10/13/2021
+  Section: INFO 101 AA
+-->
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" href="anExternal.css" />
+    <title>about:chuan</title>
+  </head>
+  <body>
+    <p>All paragraphs have max width 500px</p>
+    
+    <p style="font-family:verdata">VERDATA</p>
+    <p style="font-family:sans-serif">SANS-SERIF</p>
+    
+    <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ff0b1107-feed-4b92-a9c2-e7c4aff0ea1d/deogm3y-7346291e-3d31-4c5a-8889-2a40eef89c7b.png/v1/fill/w_1600,h_1067,q_80,strp/avant_garde_france__red_flood__by_thegreypatriot_deogm3y-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA2NyIsInBhdGgiOiJcL2ZcL2ZmMGIxMTA3LWZlZWQtNGI5Mi1hOWMyLWU3YzRhZmYwZWExZFwvZGVvZ20zeS03MzQ2MjkxZS0zZDMxLTRjNWEtODg4OS0yYTQwZWVmODljN2IucG5nIiwid2lkdGgiOiI8PTE2MDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.mRwx9HBxjOedqHjdJtkLnRjoMH7NI4obAPdN3CEsbi8" title="Avant-Garde France">
+
+    
+    <div class="container">
+      <img src="https://i.kym-cdn.com/photos/images/facebook/001/850/400/69e.jpg" title="EXTREMISTS" style="height:600px;width:600px">
+      <div class="centered">TEXT CENTERED ON IMAGE</div>
+    </div>
+    
+    <div>
+      <img src="https://i.ytimg.com/vi/pylNpOurJ-g/hqdefault.jpg" title="One State" style="float:left">
+      <p>TEXT WITH IMAGE FLOATING ON THE LEFT</p>
+      <p>MORE TEXT</p>
+      <p>MORE TEXT</p>
+      <p>MORE TEXT</p>
+    </div>
+  </body>
+</html>
